@@ -16,7 +16,7 @@
 Hands-on Data Analytics and Business Intelligence professional with banking analytics experience, focused on Power BI dashboard development and data visualization. Builds interactive dashboards and KPI / MIS reports using Power BI, DAX, and data modeling, and prepares data with SQL / Oracle Database and ETL processes, including data transformation, validation, and reconciliation. Automates recurring reporting workflows with Power Automate and uses Python automation for data extraction, reducing manual effort, and translates stakeholder requirements into scalable BI solutions and actionable business insights. Holds the Microsoft Certified: Power BI Data Analyst Associate (PL-300) certification (Passed: July 2026).
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https:github.com/shein-git/shein-github.io/)
+### [🏆 Check Out My Full Portfolio Website](https://github.com/shein-git/shein-github.io)
       
 ## 🔭 What I'm Currently Working On 
 
